@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { Router } from '@angular/router';
-import { servicedetails } from 'src/app/models/servicedetails';
+import { NgForm } from '@angular/forms';
+
+
 
 @Component({
   selector: 'app-service',
@@ -8,10 +9,20 @@ import { servicedetails } from 'src/app/models/servicedetails';
   styleUrls: ['./service.component.css']
 })
 export class ServiceComponent implements OnInit {
+ 
+
+
+  
+
 
   constructor() { }
 
+
+  
   ngOnInit(): void {
   }
+
+  
+  
 
 }

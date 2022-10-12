@@ -1,12 +1,15 @@
-export interface serviceprovider {
+export interface ServiceProviders{
+
+               
     id:number,
-    name:string,
-    description:string,
-    Contact:number,
-    Email:string,
-    Address:string,
-    Location:string,
-    City:string,
-    Zipcode:string,
+     serviceName:string,
+    desc:string,
+    contact:number,
+    email:string,
+    address:string,
+    location:string,
+    city:string,
+    zipCode:number,
     website:string
+       
 }

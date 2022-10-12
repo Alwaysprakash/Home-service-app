@@ -16,7 +16,7 @@ user:User={
   id:0,
   name:"",
   email:"",
-  mobile:"",
+  mobile:0,
   password:"",
   usertype:""
 

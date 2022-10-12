@@ -1,13 +1,13 @@
 .content{
     /* background-color:aquamarine ; */
-   /* background-image: url(.//assets/back.webp); */
+   background-image: url(https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=2000);
     height: 80vh;
     padding: 20px;
-    text-align: center;
-    
-    
-  
-  
+    text-align: center;  
+    color: #f2f2f2;
+}
+.Hone{
+  color: #f2f2f2;
 }
 .row{
   margin-top: 70px;
@@ -27,7 +27,7 @@
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color:#B3D5FB;
 }
 
 .topnav a {
@@ -65,8 +65,10 @@ padding-top:10;
 }
 
 .more{
+ 
   height: 60vh;
   text-align: center;
+ 
 }
 .more1{
   height: 80vh;
